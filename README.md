@@ -401,7 +401,7 @@ Request:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/campusiq.git
+git clone https://github.com/RAMYASRIBATTALA/campusiq.git
 cd campusiq
 ```
 
